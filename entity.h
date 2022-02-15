@@ -5,7 +5,7 @@
 
 #include "container.h"
 #include "graphics.h"
-#include "sound/asound.h"
+#include "sound.h"
 
 
 using namespace std;

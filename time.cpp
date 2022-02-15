@@ -1,4 +1,5 @@
-#include "time2.h"
+#include "time.h"
+#include "vars.h"
 
 using namespace std::chrono;
 
